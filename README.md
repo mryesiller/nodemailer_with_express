@@ -11,7 +11,7 @@
 
 Clone the project to your local repository
 ```javascript
-git clone https://github.com/Kodluyoruz-NodeJs-Bootcamp/final-project
+git clone https://github.com/mryesiller/nodemailer_with_express.git
 
 ```
 Install the dependencies of the project
