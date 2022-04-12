@@ -25,7 +25,7 @@ Create .env file in the project's directory. Environment variables inside your .
 PORT=<enter your port number here>
 ```
 
-Change  .index.js file in the project's directory. These variables connection settings to Postgres on your computer.
+Change  .index.js file in the project's directory.
 
  ```
    auth: {
