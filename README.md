@@ -19,7 +19,7 @@ Install the dependencies of the project
 ```
 npm install
 ```
-Change  .env file in the project's directory. Environment variables inside your .env file should look like this
+Create .env file in the project's directory. Environment variables inside your .env file should look like this
 
 ```
 PORT=<enter your port number here>
