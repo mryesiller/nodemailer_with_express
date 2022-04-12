@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h1= message
+   script. 
+        window.setTimeout(() => {         
+           window.location.replace('/');         
+        }, 2000)  
+  
